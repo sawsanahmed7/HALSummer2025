@@ -16,7 +16,6 @@ import static HAL.Util.*;
 /**
  * Created by Rafael on 9/5/2017.
  *
- * edited by me in 2025 :>
  */
 
 
@@ -33,9 +32,6 @@ class Cell3 extends AgentSQ2Dunstackable<CAR_T> {
 
 
 
-    //rColor = G.rn.Double();
-    //gColor = G.rn.Double();
-    //bColor = G.rn.Double();
 
     public void Step() {
         if (this.mutated) {
@@ -142,9 +138,6 @@ class CAR_T_cell extends Cell3 {
 
     }
     }
-
-
-
 
 
 
