@@ -1,5 +1,2 @@
 # HALSummer2024
-
-Hello
-
-
+Hello :D
